@@ -6,7 +6,7 @@
 
 
 
-BLADE BALL:
+BLADE BALL Script:
 
 PC/MOBILE
 
@@ -19,7 +19,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/
 
 
 
-DOORS 1 AND 2:
+DOORS 1 AND 2 Script:
 
 PC ONLY
 
