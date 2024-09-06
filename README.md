@@ -75,6 +75,10 @@ PC ONLY
 
 https://getsolara.dev/
 
+Wave:
+
+PC/IOS
+
 
 
 
