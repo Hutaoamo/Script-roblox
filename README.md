@@ -69,6 +69,12 @@ MOBILE ONLY
 
 https://delta-executor.com/
 
+Solara:
+
+PC ONLY
+
+https://getsolara.dev/
+
 
 
 
