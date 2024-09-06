@@ -10,8 +10,7 @@ MM2 Script:
 PC/MOBILE
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua", false))()
 
-PC/MOBILE
-** loadstring(game:HttpGet('https://raw.githubusercontent.com/proplayer123-z/symphony-hub/main/SymphonyHub.lua'))() **
+PC/MOBILE loadstring(game:HttpGet('https://raw.githubusercontent.com/proplayer123-z/symphony-hub/main/SymphonyHub.lua'))() 
 
 
 
