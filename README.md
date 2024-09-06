@@ -1,4 +1,4 @@
-# Script-roblox-freeall-by-Hutaoamo
+# Script-roblox-freeall-by-Hutao-amo
 
 "inglês"
 Hi, this github post is for those who want to use scripts and don't want to go through video shorteners, etc...
