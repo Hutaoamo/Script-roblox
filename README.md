@@ -1,9 +1,9 @@
 # Script-roblox-freeall-by-Hutao-amo
 
-"inglês"
+"English"
 Hi, this github post is for those who want to use scripts and don't want to go through video shorteners, etc...
 #################################################################################################
-"Português"
+"Português-br"
 olá, esse post do github é para quem quer usar script e não quer passar pelos encurtadores dos videos e etc..
 
 
