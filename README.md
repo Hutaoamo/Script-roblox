@@ -27,8 +27,7 @@ EXECUTORS
 
 Delta:
 
-MOBILE ONLY
-
+MOBILE ONLY.
 https://delta-executor.com/
 
 
