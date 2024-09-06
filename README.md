@@ -61,7 +61,7 @@ PC/MOBILE-infinite yield
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 
 
-EXECUTORS
+EXECUTORS:
 
 Delta:
 
@@ -96,10 +96,10 @@ https://waveexecutor.io/
 
 
 
+EXTERNALS:
 
 
-
-
+ALL THOSE HERE ARE ONLY FOR PC
 
 
 
