@@ -25,7 +25,10 @@ PC/MOBILE loadstring(game:HttpGet('https://raw.githubusercontent.com/proplayer12
 
 EXECUTORS
 
+Delta:
 
+MOBILE ONLY
+https://delta-executor.com/
 
 
 
