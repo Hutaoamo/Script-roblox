@@ -118,7 +118,7 @@ AIMMY V2:
 
 SITE: https://aimmy.dev/
 
- KEY: 
+ KEY: NO KEY
 
 
 
