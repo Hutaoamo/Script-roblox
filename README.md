@@ -20,7 +20,7 @@ PC ONLY-Esp name
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))()
 
-PC/MOBILE-infiniteyield
+PC/MOBILE-infinite yield
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
 
