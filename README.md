@@ -1,11 +1,7 @@
-# Script-roblox-freeall-by-Hutao-amo
+|Hello >:D
 
-"English"
-Hi, this github post is for those who want to use scripts and don't want to go through video shorteners, etc...
-#################################################################################################
-"Português-br"
-olá, esse post do github é para quem quer usar script e não quer passar pelos encurtadores dos videos e etc..
 
+|Hello, here I will post scripts and executors among other Roblox "hacks" without capchat or something like that that video creators or something like that do to earn on the script. bye;3
 
 
 
@@ -97,3 +93,9 @@ olá, esse post do github é para quem quer usar script e não quer passar pelos
 
 
 
+
+
+
+
+
+|I only do this because I'm tired of going through shorteners and trying to find the "script" I want to use.|
