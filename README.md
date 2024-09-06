@@ -102,11 +102,11 @@ EXTERNALS:
 ALL THOSE HERE ARE ONLY FOR PC
 
 
+HORIZON:
 
+SITE: https://dash.usehorizon.net/assets
 
-
-
-
+ KEY: https://auth.usehorizon.net/
 
 
 
