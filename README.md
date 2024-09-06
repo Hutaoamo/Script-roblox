@@ -4,6 +4,21 @@
 |Hello, here I will post scripts and executors among other Roblox "hacks" without capchat or something like that that video creators or something like that do to earn on the script. bye;3
 
 
+
+
+BLADE BALL:
+
+PC/MOBILE
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/autoparry.lua"))()
+
+
+
+
+
+
+
+
 DOORS 1 AND 2:
 
 PC ONLY
