@@ -4,6 +4,27 @@
 |Hello, here I will post scripts and executors among other Roblox "hacks" without capchat or something like that that video creators or something like that do to earn on the script. bye;3
 
 
+DOORS 1 AND 2:
+
+PC ONLY
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptta/doors/main/clutch.lua"))()
+
+PC ONLY
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yumiara/Python/main/Main.lua"))();
+
+
+
+
+
+
+
+
+
+
+
+
 
 MM2 Script:
 
