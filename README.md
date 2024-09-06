@@ -108,7 +108,17 @@ SITE: https://dash.usehorizon.net/assets
 
  KEY: https://auth.usehorizon.net/
 
+NEZUR:
 
+SITE: https://nezur.io/
+
+ KEY: https://key.nezur.io/
+
+AIMMY V2:
+
+SITE: https://aimmy.dev/
+
+ KEY: 
 
 
 
