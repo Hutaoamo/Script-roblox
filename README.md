@@ -77,7 +77,7 @@ https://getsolara.dev/
 
 Wave:
 
-PC/IOS
+IOS ONLY
 
 https://waveexecutor.io/
 
