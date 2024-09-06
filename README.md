@@ -45,20 +45,21 @@ MM2 Script:
 
 PC/MOBILE
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua", false))()
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua", false))()`
 
 PC/MOBILE
- loadstring(game:HttpGet('https://raw.githubusercontent.com/proplayer123-z/symphony-hub/main/SymphonyHub.lua'))() 
 
+ `loadstring(game:HttpGet('https://raw.githubusercontent.com/proplayer123-z/symphony-hub/main/SymphonyHub.lua'))() 
+`
 Universal Script:
 
 PC ONLY-Esp name
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))()
+`loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))(`)
 
 PC/MOBILE-infinite yield
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()`
 
 
 EXECUTORS:
@@ -163,4 +164,4 @@ SITE: https://aimmy.dev/
 
 
 
-|I only do this because I'm tired of going through shorteners and trying to find the "script" I want to use.|
+|I only do this because I'm tired of going through shorteners and trying to find the "script" I want to use.
