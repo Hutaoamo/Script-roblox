@@ -10,8 +10,8 @@ BLADE BALL Script:
 
 PC/MOBILE
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/autoparry.lua"))()
-
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/autoparry.lua"))()
+`
 
 
 
@@ -23,12 +23,12 @@ DOORS 1 AND 2 Script:
 
 PC ONLY
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptta/doors/main/clutch.lua"))()
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptta/doors/main/clutch.lua"))()`
 
 PC ONLY
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Yumiara/Python/main/Main.lua"))();
-
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/Yumiara/Python/main/Main.lua"))();
+`
 
 
 
